@@ -9,7 +9,7 @@
 Use [npm](https://npmjs.com/) to install.
 
 ```sh
-npm install vicdun-notification --save
+npm i @vicduns/vicdun-notification --save
 ```
 
 ## Usage
