@@ -1,0 +1,30 @@
+{
+  "name": "vicdun-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Fahrettin Rıza Ergin",
+    "email": "fahrettinriza@hotmail.com",
+    "url": "https://github.com/fahrettinrizaergin"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^5.5.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "notification"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fahrettinrizaergin/vicdun-notification.git"
+  },
+  "homepage": "https://github.com/fahrettinrizaergin/vicdun-notification",
+  "bugs": {
+    "url": "https://github.com/fahrettinrizaergin/vicdun-notification/issues"
+  }
+}
