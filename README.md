@@ -3,6 +3,8 @@ Hi everyone, I'm Fahrettin Rıza Ergin.
 I have prepared a notification package for you with my little knowledge of JavaScript. 
 I wish you to use this package in good days. 
 
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+
 ### Download the package 
 ```sh
 npm i vicdun-notification --save
@@ -59,3 +61,6 @@ notification({
  })
 
 ```
+
+## License
+MIT, see [LICENSE.md](http://github.com/fahrettinrizaergin/vicdun-notification/blob/master/LICENSE.md) for details.
