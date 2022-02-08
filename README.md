@@ -55,10 +55,10 @@ import { notification } from 'vicdun-notification'
 notification({
    class: 'mb-4',
    message: 'Hi guys',
-   position: 'left-bottom', // left-top, center-top, right-top, center, left-bottom, center-bottom, right-bottom
-   type: 'info', // default, success, danger, warning, info
-   style: 'margin-bottom: 1rem',
-   timeout: 3.5 // second
+   position: 'right-top', // default: right-top, other positions: left-top, center-top, right-top, center, left-bottom, center-bottom, right-bottom 
+   type: 'default', // default, success, danger, warning, info
+   style: 'margin-bottom: 1rem; margin-top: 1rem;',
+   timeout: 3.5 // Default seconds: 3, you can write your own desired seconds. Example: 4.5
  })
 
 ```
