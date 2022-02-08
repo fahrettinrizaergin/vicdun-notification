@@ -1,7 +1,8 @@
 # vicdun-notification
-Hi everyone, I'm Fahrettin Rıza Ergin.
-I have prepared a notification package for you with my little knowledge of JavaScript. 
-I wish you to use this package in good days. 
+Hi everyone, I'm Fahrettin Rıza Ergin.   
+I'm a software developer. I'm a student of Computer Programing at University of Atatürk.    
+I have prepared a notification package for you with my little knowledge of JavaScript.    
+I wish you to use this package in good days.
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
